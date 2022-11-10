@@ -1,0 +1,5 @@
+com\alincaia\arithmeticparserv2\InvalidInputQueueStringTest.class
+com\alincaia\arithmeticparserv2\NonBinaryExpressionTest.class
+com\alincaia\arithmeticparserv2\ResultParserWithParenthesisTest.class
+com\alincaia\arithmeticparserv2\DivisionByZeroTest.class
+com\alincaia\arithmeticparserv2\NonMatchingParenthesisTest.class

@@ -1,0 +1,5 @@
+com\alincaia\arithmeticparserv2\exceptions\NonMatchingParenthesis.class
+com\alincaia\arithmeticparserv2\exceptions\DivisionByZero.class
+com\alincaia\arithmeticparserv2\exceptions\NonBinaryExpression.class
+com\alincaia\arithmeticparserv2\business\ResultParserWithParenthesis.class
+com\alincaia\arithmeticparserv2\exceptions\InvalidInputQueueString.class
